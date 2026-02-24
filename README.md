@@ -31,8 +31,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-master-cc-fuyus-projects.vercel.app/api?username=cc-fuyu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=1" height="160"/>
-  <img src="https://github-readme-stats-git-master-cc-fuyus-projects.vercel.app/api/top-langs/?username=cc-fuyu&layout=compact&theme=tokyonight&hide_border=true&v=1" height="160"/>
+  <img src="https://github-readme-stats-6sxtntcv5-cc-fuyus-projects.vercel.app/api?username=cc-fuyu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats-6sxtntcv5-cc-fuyus-projects.vercel.app/api/top-langs/?username=cc-fuyu&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
