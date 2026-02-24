@@ -1,65 +1,43 @@
 # Hi, I'm Yves 👋
 
-🎓 MS Computer Science @ USC  
-🔭 Currently building AI-powered developer tools  
-🌱 Exploring MCP, RAG, and LLM infrastructure  
+🎓 MS Computer Science @ USC &nbsp;&nbsp;·&nbsp;&nbsp; 🔭 Building AI-powered developer tools &nbsp;&nbsp;·&nbsp;&nbsp; 🌱 Exploring MCP, RAG, and LLM infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### [mcp-security-scan](https://github.com/cc-fuyu/mcp-security-scan)
-> Open-source CLI tool that scans MCP server configurations for security vulnerabilities. 30+ rules mapped to OWASP MCP Top 10.
-
-[![npm](https://img.shields.io/npm/v/mcp-security-scan?color=red&logo=npm)](https://www.npmjs.com/package/mcp-security-scan)
-[![GitHub Stars](https://img.shields.io/github/stars/cc-fuyu/mcp-security-scan?style=flat)](https://github.com/cc-fuyu/mcp-security-scan)
-
-### [mcp-cost-tracker](https://github.com/cc-fuyu/mcp-cost-tracker)
-> MCP server with 15 tools to track LLM API costs across 50+ models from 8 providers.
-
-[![npm](https://img.shields.io/npm/v/mcp-cost-tracker?color=red&logo=npm)](https://www.npmjs.com/package/mcp-cost-tracker)
-[![GitHub Stars](https://img.shields.io/github/stars/cc-fuyu/mcp-cost-tracker?style=flat)](https://github.com/cc-fuyu/mcp-cost-tracker)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
+
+| Project | Description | Badges |
+| :--- | :--- | :--- |
+| **[TrendClaw](https://github.com/cc-fuyu/trendclaw)** | OpenClaw Plugin: GitHub Trending → AI Analysis → Developer Content Generation pipeline | [![npm](https://img.shields.io/npm/v/trendclaw?color=red&logo=npm)](https://www.npmjs.com/package/trendclaw) [![GitHub Stars](https://img.shields.io/github/stars/cc-fuyu/trendclaw?style=flat)](https://github.com/cc-fuyu/trendclaw) |
+| **[mcp-security-scan](https://github.com/cc-fuyu/mcp-security-scan)** | Security scanner for MCP servers. Maps findings to OWASP MCP Top 10. | [![npm](https://img.shields.io/npm/v/mcp-security-scan?color=red&logo=npm)](https://www.npmjs.com/package/mcp-security-scan) [![GitHub Stars](https://img.shields.io/github/stars/cc-fuyu/mcp-security-scan?style=flat)](https://github.com/cc-fuyu/mcp-security-scan) |
+| **[mcp-cost-tracker](https://github.com/cc-fuyu/mcp-cost-tracker)** | MCP server to track LLM API costs across 50+ models from 8 providers. | [![npm](https://img.shields.io/npm/v/mcp-cost-tracker?color=red&logo=npm)](https://www.npmjs.com/package/mcp-cost-tracker) [![GitHub Stars](https://img.shields.io/github/stars/cc-fuyu/mcp-cost-tracker?style=flat)](https://github.com/cc-fuyu/mcp-cost-tracker) |
+| **[create-mcp-server](https://github.com/cc-fuyu/create-mcp-server)** | Generate a complete MCP server from any OpenAPI specification. | [![npm](https://img.shields.io/npm/v/create-mcp-server?color=red&logo=npm)](https://www.npmjs.com/package/create-mcp-server) [![GitHub Stars](https://img.shields.io/github/stars/cc-fuyu/create-mcp-server?style=flat)](https://github.com/cc-fuyu/create-mcp-server) |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cc-fuyu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cc-fuyu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cc-fuyu&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## ⏱️ WakaTime Stats
+### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 > 🔧 WakaTime stats coming soon...
-<!--
-**cc-fuyu/cc-fuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
