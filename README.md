@@ -40,4 +40,11 @@
 ### ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   54 mins               █████████████████▒░░░░░░░   69.75 %
+TeX      18 mins               ██████░░░░░░░░░░░░░░░░░░░   23.67 %
+SQL      5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+```
+
 <!--END_SECTION:waka-->
